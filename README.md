@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanujaparab
-- 🌱 I’m currently learning ..PG Diploma in Software Development 
+- 🌱 I’m currently learning ..Msc
 - 📫 How to reach me ...parabtanuja888@gmail.com
 
 <!---
